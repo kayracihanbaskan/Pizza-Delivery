@@ -21,10 +21,6 @@ PizzaDelivery/
 │   ├── AddPizza.py     # Özel pizza oluşturma sayfası
 │   ├── Catalog.py      # Pizza kataloğu sayfası
 │   └── Order.py        # Sipariş sayfası
-│
-└── img/                # Görsel dosyaları
-    ├── chicken_pizza.jpeg
-    └── pizza_img.jpeg
 ```
 
 ## Kurulum
